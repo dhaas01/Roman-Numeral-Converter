@@ -1,0 +1,10 @@
+E:\Programs\Chapter 4 Numbers 1 and 2\Roman Numeral Converter\bin\Debug\Roman Numeral Converter.exe.config
+E:\Programs\Chapter 4 Numbers 1 and 2\Roman Numeral Converter\bin\Debug\Roman Numeral Converter.exe
+E:\Programs\Chapter 4 Numbers 1 and 2\Roman Numeral Converter\bin\Debug\Roman Numeral Converter.pdb
+E:\Programs\Chapter 4 Numbers 1 and 2\Roman Numeral Converter\obj\Debug\Roman Numeral Converter.csprojAssemblyReference.cache
+E:\Programs\Chapter 4 Numbers 1 and 2\Roman Numeral Converter\obj\Debug\Roman_Numeral_Converter.Form1.resources
+E:\Programs\Chapter 4 Numbers 1 and 2\Roman Numeral Converter\obj\Debug\Roman_Numeral_Converter.Properties.Resources.resources
+E:\Programs\Chapter 4 Numbers 1 and 2\Roman Numeral Converter\obj\Debug\Roman Numeral Converter.csproj.GenerateResource.cache
+E:\Programs\Chapter 4 Numbers 1 and 2\Roman Numeral Converter\obj\Debug\Roman Numeral Converter.csproj.CoreCompileInputs.cache
+E:\Programs\Chapter 4 Numbers 1 and 2\Roman Numeral Converter\obj\Debug\Roman Numeral Converter.exe
+E:\Programs\Chapter 4 Numbers 1 and 2\Roman Numeral Converter\obj\Debug\Roman Numeral Converter.pdb
